@@ -1,2 +1,1 @@
-A high-pass filterbank to extract the residual features of cepstral coefficients from various directions and levels. Moreover, ResNeXt is adapted as the back-end classifier
-to process the residual features and perform the final genuine and spoofed classification.
+A high-pass filterbank to extract the residual features of cepstral coefficients from various directions and levels. Moreover, ResNeXt is adapted as the back-end classifier to process the residual features and perform the final genuine and spoofed classification.
